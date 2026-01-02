@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Arun</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arunjagan12&label=Profile%20views&color=0e75b6&style=flat" alt="Arunjagan12" /> </p>
+<h1 align="center">Hi 👋, Cheluvegowda</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arunjagan12&label=Profile%20views&color=0e75b6&style=flat" alt="cheluvegowda" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Dental Lab ERP & Web Applications<br>💬 Ask me about UI/UX Design, Frontend & related tech stacks<br>📫 How to reach me: cheluveg07@gmail.com<br>👨‍💻 All of my projects are available at: https://cheluvegowda.github.io/Personal-portfolio/<br>⚡ Fun fact: I turn complex ideas into simple, user-friendly designs 😄
